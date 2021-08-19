@@ -1,2 +1,2 @@
-# GifsProyect
+# paginadeGifs
 Created with CodeSandbox
